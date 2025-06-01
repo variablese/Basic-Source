@@ -1,7 +1,7 @@
 # Description: A standalone IPv4 DDoS script for Windows 10, for defensive research under ACRP-2025-05-30-001.
 # Features: HTTP flood, UDP flood, TCP SYN flood, anti-IDS, multi-threading, AES-encrypted logs.
 # Stealth: Anti-debug, anti-sandbox, spoofed headers, randomized source IPs.
-# Historical Trivia: DDoS attacks like Mirai (2016) targeted IoT; LOIC (2010) was a script kiddie tool.
+# Historical Trivia: DDoS attacks like Mirai (2016) targeted IoT; LOIC (2010) was a skid tool.
 
 import os
 import sys
